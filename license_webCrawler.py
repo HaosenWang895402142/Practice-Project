@@ -1,6 +1,5 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-#time: 2017/09/03 21:05:29
+
+#time: 2017/09/03
 #version: 3.6.1
 #__author__: Haosen
 
